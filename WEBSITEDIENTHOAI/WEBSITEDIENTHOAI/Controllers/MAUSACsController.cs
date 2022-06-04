@@ -53,6 +53,7 @@ namespace WEBSITEDIENTHOAI.Controllers
             {
                 listCtSanpham.Add(item);
             }
+            
             ViewBag.ls = listCtSanpham;
             return View();
         }
