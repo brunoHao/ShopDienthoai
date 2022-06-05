@@ -1,0 +1,47 @@
+﻿@model IEnumerable<WEBSITEDIENTHOAI.Models.SANPHAM>
+
+@{
+    ViewData["Title"] = "Index";
+}
+
+<h1>Index</h1>
+
+<p>
+    <a asp-action="Create">Create New</a>
+</p>
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.Tensp)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Giasp)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Sluong)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model) {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.Tensp)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Giasp)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Sluong)
+            </td>
+            <td>
+                <a asp-action="Edit" asp-route-id="@item.IDsanpham">Edit</a> |
+                <a asp-action="Details" asp-route-id="@item.IDsanpham">Details</a> |
+                <a asp-action="Delete" asp-route-id="@item.IDsanpham">Delete</a>
+            </td>
+        </tr>
+}
+    </tbody>
+</table>

@@ -1,0 +1,164 @@
+is_global = true
+build_property.TargetFramework = net6.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = WEBSITEDIENTHOAI
+build_property.RootNamespace = WEBSITEDIENTHOAI
+build_property.ProjectDir = C:\Users\dattr\Documents\GitHub\ShopDienthoai\WEBSITEDIENTHOAI\WEBSITEDIENTHOAI\
+build_property.RazorLangVersion = 6.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = C:\Users\dattr\Documents\GitHub\ShopDienthoai\WEBSITEDIENTHOAI\WEBSITEDIENTHOAI
+build_property._RazorSourceGeneratorDebug = 
+
+[C:/Users/dattr/Documents/GitHub/ShopDienthoai/WEBSITEDIENTHOAI/WEBSITEDIENTHOAI/Views/CTHOADONs/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ1RIT0FET05zXENyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/dattr/Documents/GitHub/ShopDienthoai/WEBSITEDIENTHOAI/WEBSITEDIENTHOAI/Views/CTHOADONs/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ1RIT0FET05zXERlbGV0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/dattr/Documents/GitHub/ShopDienthoai/WEBSITEDIENTHOAI/WEBSITEDIENTHOAI/Views/CTHOADONs/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ1RIT0FET05zXERldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/dattr/Documents/GitHub/ShopDienthoai/WEBSITEDIENTHOAI/WEBSITEDIENTHOAI/Views/CTHOADONs/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ1RIT0FET05zXEVkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/dattr/Documents/GitHub/ShopDienthoai/WEBSITEDIENTHOAI/WEBSITEDIENTHOAI/Views/CTHOADONs/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ1RIT0FET05zXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/dattr/Documents/GitHub/ShopDienthoai/WEBSITEDIENTHOAI/WEBSITEDIENTHOAI/Views/CTSANPHAMs/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ1RTQU5QSEFNc1xDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/dattr/Documents/GitHub/ShopDienthoai/WEBSITEDIENTHOAI/WEBSITEDIENTHOAI/Views/CTSANPHAMs/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ1RTQU5QSEFNc1xEZWxldGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/dattr/Documents/GitHub/ShopDienthoai/WEBSITEDIENTHOAI/WEBSITEDIENTHOAI/Views/CTSANPHAMs/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ1RTQU5QSEFNc1xEZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/dattr/Documents/GitHub/ShopDienthoai/WEBSITEDIENTHOAI/WEBSITEDIENTHOAI/Views/CTSANPHAMs/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ1RTQU5QSEFNc1xFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/dattr/Documents/GitHub/ShopDienthoai/WEBSITEDIENTHOAI/WEBSITEDIENTHOAI/Views/CTSANPHAMs/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ1RTQU5QSEFNc1xJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/dattr/Documents/GitHub/ShopDienthoai/WEBSITEDIENTHOAI/WEBSITEDIENTHOAI/Views/GIOHANGs/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcR0lPSEFOR3NcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/dattr/Documents/GitHub/ShopDienthoai/WEBSITEDIENTHOAI/WEBSITEDIENTHOAI/Views/GIOHANGs/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcR0lPSEFOR3NcRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/dattr/Documents/GitHub/ShopDienthoai/WEBSITEDIENTHOAI/WEBSITEDIENTHOAI/Views/GIOHANGs/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcR0lPSEFOR3NcRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/dattr/Documents/GitHub/ShopDienthoai/WEBSITEDIENTHOAI/WEBSITEDIENTHOAI/Views/GIOHANGs/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcR0lPSEFOR3NcRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/dattr/Documents/GitHub/ShopDienthoai/WEBSITEDIENTHOAI/WEBSITEDIENTHOAI/Views/GIOHANGs/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcR0lPSEFOR3NcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/dattr/Documents/GitHub/ShopDienthoai/WEBSITEDIENTHOAI/WEBSITEDIENTHOAI/Views/HOADONs/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSE9BRE9Oc1xDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/dattr/Documents/GitHub/ShopDienthoai/WEBSITEDIENTHOAI/WEBSITEDIENTHOAI/Views/HOADONs/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSE9BRE9Oc1xEZWxldGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/dattr/Documents/GitHub/ShopDienthoai/WEBSITEDIENTHOAI/WEBSITEDIENTHOAI/Views/HOADONs/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSE9BRE9Oc1xEZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/dattr/Documents/GitHub/ShopDienthoai/WEBSITEDIENTHOAI/WEBSITEDIENTHOAI/Views/HOADONs/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSE9BRE9Oc1xFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/dattr/Documents/GitHub/ShopDienthoai/WEBSITEDIENTHOAI/WEBSITEDIENTHOAI/Views/HOADONs/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSE9BRE9Oc1xJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/dattr/Documents/GitHub/ShopDienthoai/WEBSITEDIENTHOAI/WEBSITEDIENTHOAI/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/dattr/Documents/GitHub/ShopDienthoai/WEBSITEDIENTHOAI/WEBSITEDIENTHOAI/Views/Home/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/dattr/Documents/GitHub/ShopDienthoai/WEBSITEDIENTHOAI/WEBSITEDIENTHOAI/Views/MAUSACs/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTUFVU0FDc1xDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/dattr/Documents/GitHub/ShopDienthoai/WEBSITEDIENTHOAI/WEBSITEDIENTHOAI/Views/MAUSACs/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTUFVU0FDc1xEZWxldGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/dattr/Documents/GitHub/ShopDienthoai/WEBSITEDIENTHOAI/WEBSITEDIENTHOAI/Views/MAUSACs/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTUFVU0FDc1xEZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/dattr/Documents/GitHub/ShopDienthoai/WEBSITEDIENTHOAI/WEBSITEDIENTHOAI/Views/MAUSACs/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTUFVU0FDc1xFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/dattr/Documents/GitHub/ShopDienthoai/WEBSITEDIENTHOAI/WEBSITEDIENTHOAI/Views/MAUSACs/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTUFVU0FDc1xJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/dattr/Documents/GitHub/ShopDienthoai/WEBSITEDIENTHOAI/WEBSITEDIENTHOAI/Views/SANPHAMs/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU0FOUEhBTXNcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/dattr/Documents/GitHub/ShopDienthoai/WEBSITEDIENTHOAI/WEBSITEDIENTHOAI/Views/SANPHAMs/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU0FOUEhBTXNcRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/dattr/Documents/GitHub/ShopDienthoai/WEBSITEDIENTHOAI/WEBSITEDIENTHOAI/Views/SANPHAMs/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU0FOUEhBTXNcRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/dattr/Documents/GitHub/ShopDienthoai/WEBSITEDIENTHOAI/WEBSITEDIENTHOAI/Views/SANPHAMs/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU0FOUEhBTXNcRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/dattr/Documents/GitHub/ShopDienthoai/WEBSITEDIENTHOAI/WEBSITEDIENTHOAI/Views/SANPHAMs/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU0FOUEhBTXNcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/dattr/Documents/GitHub/ShopDienthoai/WEBSITEDIENTHOAI/WEBSITEDIENTHOAI/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/dattr/Documents/GitHub/ShopDienthoai/WEBSITEDIENTHOAI/WEBSITEDIENTHOAI/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/dattr/Documents/GitHub/ShopDienthoai/WEBSITEDIENTHOAI/WEBSITEDIENTHOAI/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/dattr/Documents/GitHub/ShopDienthoai/WEBSITEDIENTHOAI/WEBSITEDIENTHOAI/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/dattr/Documents/GitHub/ShopDienthoai/WEBSITEDIENTHOAI/WEBSITEDIENTHOAI/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-i0c8lokm3e

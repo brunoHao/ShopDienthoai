@@ -1,0 +1,43 @@
+﻿@model WEBSITEDIENTHOAI.Models.GIOHANG
+
+@{
+    ViewData["Title"] = "Create";
+}
+
+<h1>Create</h1>
+
+<h4>GIOHANG</h4>
+<hr />
+<div class="row">
+    <div class="col-md-4">
+        <form asp-action="Create">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            <div class="form-group">
+                <label asp-for="IDsanpham" class="control-label"></label>
+                <input asp-for="IDsanpham" class="form-control" />
+                <span asp-validation-for="IDsanpham" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Tensp" class="control-label"></label>
+                <input asp-for="Tensp" class="form-control" />
+                <span asp-validation-for="Tensp" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Sluongdat" class="control-label"></label>
+                <input asp-for="Sluongdat" class="form-control" />
+                <span asp-validation-for="Sluongdat" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <input type="submit" value="Create" class="btn btn-primary" />
+            </div>
+        </form>
+    </div>
+</div>
+
+<div>
+    <a asp-action="Index">Back to List</a>
+</div>
+
+@section Scripts {
+    @{await Html.RenderPartialAsync("_ValidationScriptsPartial");}
+}

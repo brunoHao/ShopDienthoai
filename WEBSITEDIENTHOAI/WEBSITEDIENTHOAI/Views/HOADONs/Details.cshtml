@@ -1,0 +1,36 @@
+﻿@model WEBSITEDIENTHOAI.Models.HOADON
+
+@{
+    ViewData["Title"] = "Details";
+}
+
+<h1>Details</h1>
+
+<div>
+    <h4>HOADON</h4>
+    <hr />
+    <dl class="row">
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.IDgiohang)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.IDgiohang)
+        </dd>
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.Sluongdat)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.Sluongdat)
+        </dd>
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.Tongdonhang)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.Tongdonhang)
+        </dd>
+    </dl>
+</div>
+<div>
+    <a asp-action="Edit" asp-route-id="@Model?.IDhoadon">Edit</a> |
+    <a asp-action="Index">Back to List</a>
+</div>

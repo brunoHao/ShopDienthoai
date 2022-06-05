@@ -1,0 +1,44 @@
+﻿@model WEBSITEDIENTHOAI.Models.MAUSAC
+
+@{
+    ViewData["Title"] = "Edit";
+}
+
+<h1>Edit</h1>
+
+<h4>MAUSAC</h4>
+<hr />
+<div class="row">
+    <div class="col-md-4">
+        <form asp-action="Edit">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            <input type="hidden" asp-for="IDmausac" />
+            <div class="form-group">
+                <label asp-for="Tenmausac" class="control-label"></label>
+                <input asp-for="Tenmausac" class="form-control" />
+                <span asp-validation-for="Tenmausac" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Soluong" class="control-label"></label>
+                <input asp-for="Soluong" class="form-control" />
+                <span asp-validation-for="Soluong" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="IDctsanpham" class="control-label"></label>
+                <input asp-for="IDctsanpham" class="form-control" />
+                <span asp-validation-for="IDctsanpham" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <input type="submit" value="Save" class="btn btn-primary" />
+            </div>
+        </form>
+    </div>
+</div>
+
+<div>
+    <a asp-action="Index">Back to List</a>
+</div>
+
+@section Scripts {
+    @{await Html.RenderPartialAsync("_ValidationScriptsPartial");}
+}
